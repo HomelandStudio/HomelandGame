@@ -1,0 +1,3 @@
+[submodule "Content/HomelandGameAssets"]
+	path = Content/HomelandGameAssets
+	url = git@github.com:HomelandStudio/HomelandGameAssets.git
