@@ -43,6 +43,10 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.dtmp
+*.bkp
+
+.DS_Store
 
 # Precompiled Assets
 SourceArt/**/*.png
