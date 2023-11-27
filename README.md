@@ -2,4 +2,4 @@
 
 Homeland Game Source Code
 
-Wiki is [Here](https://github.com/HomelandStudio/HomelandGameFrame/wiki)
+Document is [Here](https://bluespace.gitbook.io/homeland-studio-document/)
